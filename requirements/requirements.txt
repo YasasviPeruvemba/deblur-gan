@@ -23,7 +23,7 @@ PyYAML
 scikit-image
 scipy
 six
-tensorflow==1.5.0
-tensorflow-tensorboard
+tensorflow
+tensorflow-tensorboard==1.5.1
 tqdm
 Werkzeug
